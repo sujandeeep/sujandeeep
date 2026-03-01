@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Science Engineering Student (VTU – 6th Semester)  
+- 🎓 Computer Science Engineering Student 
 - 🔐 Building **Blockchain-Based Smart Credential Verification System**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & Cloud**
 - 💡 Passionate about solving real-world problems using technology
