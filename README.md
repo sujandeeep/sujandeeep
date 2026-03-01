@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Deep</h1>
-<h3 align="center">AI/ML Enthusiast | Blockchain Developer | BE CSE Student (VTU)</h3>
+<h3 align="center">AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://sujandeep-portfolio.netlify.app/">
